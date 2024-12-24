@@ -1,0 +1,14 @@
+{
+    "domain": "sunsynk_forecast",
+    "name": "Sunsynk Forecast",
+    "version": "1.0",
+    "documentation": "https://github.com/yourusername/sunsynk_forecast",
+    "dependencies": [],
+    "codeowners": ["@yourgithubusername"],
+    "requirements": [
+      "requests",
+      "openai"
+    ],
+    "config_flow": true
+  }
+  

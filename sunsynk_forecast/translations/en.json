@@ -1,0 +1,13 @@
+{
+    "config_flow": {
+      "title": "Sunsynk Forecast",
+      "data": {
+        "solar_entity": "Solar production entity",
+        "load_entity": "Load energy entity",
+        "battery_entity": "Battery energy entity",
+        "grid_entity": "Grid power entity",
+        "weather_entity": "Weather entity"
+      }
+    }
+  }
+  
